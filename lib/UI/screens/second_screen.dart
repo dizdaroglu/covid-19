@@ -7,7 +7,6 @@ import 'package:covid_19/core/model/summary_country_model.dart';
 import 'package:covid_19/core/model/summary_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:logger/logger.dart';
 
 class SecondScreen extends StatefulWidget {
   final summary;
